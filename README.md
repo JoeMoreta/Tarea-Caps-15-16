@@ -83,7 +83,7 @@ C)
 
 ![image](https://user-images.githubusercontent.com/105681693/186567722-6b3523ab-7a68-4da3-8388-725c1eeef504.png)
 
-![image](https://user-images.githubusercontent.com/105681693/186567733-da594a6f-ff83-4299-960c-57633dde9852.png
+![image](https://user-images.githubusercontent.com/105681693/186567733-da594a6f-ff83-4299-960c-57633dde9852.png)
 
 18. Realice las siguientes operaciones:
 
